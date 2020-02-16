@@ -6,9 +6,9 @@ WOE and IV are powerful techniques to perform feature transformation and selecti
 These concepts have huge connection with the logistic regression modeling technique.
 It is widely used in credit scoring to measure the separation of good vs bad customers.
 
-![Image](woe_iv.png)
+![Image 1](woe_iv.jpg)
 
-![Image](iv.png)
+![Image 2](iv.jpg)
 
 The advantages of WOE transformation are
 1. Handles missing values
@@ -19,4 +19,4 @@ The advantages of WOE transformation are
 By using proper binning technique, it can establish monotonic relationship (either increase or decrease) between the target and a feature
 Also, IV value can be used to select features quickly.
 
-![Image](prediction_power.png)
+![Image 3](prediction_power.jpg)

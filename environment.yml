@@ -22,7 +22,6 @@ dependencies:
   - pip:
       - pytest==5.3.5
       - pytest-runner==5.2
-      - black==18.10b0
 
 
 

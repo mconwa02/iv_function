@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+.idea
+.ipynb_checkpoints
+**/__pycache__/
+**/*venv
